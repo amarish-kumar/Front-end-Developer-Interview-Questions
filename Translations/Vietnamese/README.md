@@ -1,8 +1,8 @@
-#Front-end Job Interview Questions
+#Những câu hỏi phỏng vấn tìm việc cho Front-end
 
-This file contains a number of front-end interview questions that can be used when vetting potential candidates. It is by no means recommended to use every single question here on the same candidate (that would take hours). Choosing a few items from this list should help you vet the intended skills you require.
+Tập tin này bao gồm một số lượng câu hỏi được dùng để đánh giá khả năng của các ứng cử viên tiềm năng. Điều này không có nghĩa là sử dụng từng câu hỏi này cho cùng ứng cử viên khác nhau (sẽ mất rất nhiều thời gian). Chọn một vài câu hỏi trong đây giúp bạn đánh giá những kĩ năng mà bạn cần.
 
-**Note:** Keep in mind that many of these questions are open-ended and could lead to interesting discussions that tell you more about the person's capabilities than a straight answer would.
+**Chú ý:** Hãy nhớ rằng những câu hỏi này là những câu hỏi mở và có thể dẫn đến những thảo luận vô cùng thú vị, từ đó bạn sẽ biết thêm về khả năng của ứng cử viên.
 
 ## Table of Contents
 
